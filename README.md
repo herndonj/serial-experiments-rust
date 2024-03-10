@@ -1,15 +1,3 @@
-<style>
-    .img-wrapper {
-        float: left;
-        margin: 0 0 0.5em 1em;
-    }
-    img {
-        display: block;
-        margin: 0 auto;
-    }
-    .img-desc { text-align: left; }
-</style>
-
 # serial-experiments-rust
 
 Training and reference materials for data work in Rust. 
